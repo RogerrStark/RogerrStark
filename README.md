@@ -6,7 +6,9 @@ Me chamo Rogério, e trabalho na área de suporte a mais de 10 anos. Sempre tive
 
 ---
 
-<img src="developer.gif" width="412px" align="right"/>
+<p>
+  <img src="https://github.com/user-attachments/assets/72271c6a-0cf6-400b-b480-f8659672433f" width="412px" align="right"/>
+</p>
 
 ### 🛠️ Linguagens e Tecnologias Estudadas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,8 +38,6 @@ Me chamo Rogério, e trabalho na área de suporte a mais de 10 anos. Sempre tive
 </div>
 
 ---
-
-<br>
 
 ### 🏆 Estatísticas
 
