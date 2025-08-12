@@ -6,7 +6,7 @@ Me chamo Rogério, e trabalho na área de suporte a mais de 10 anos. Sempre tive
 
 ---
 
-<img src="developer.gif" width="412px" align="right">
+<img src="developer.gif" width="412px" align="right"/>
 
 ### 🛠️ Linguagens e Tecnologias Estudadas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,4 +48,3 @@ https://github.com/anuraghazra/github-readme-stats.git
 
   ![Estatísticas](https://github-readme-stats.vercel.app/api?username=RogerrStark&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br)
   ![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerrStark&layout=compact&theme=transparent&custom_title=Tecnologias&langs_count=9)
-![developer](https://github.com/user-attachments/assets/72271c6a-0cf6-400b-b480-f8659672433f)
