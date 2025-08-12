@@ -48,3 +48,4 @@ https://github.com/anuraghazra/github-readme-stats.git
 
   ![Estatísticas](https://github-readme-stats.vercel.app/api?username=RogerrStark&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br)
   ![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=RogerrStark&layout=compact&theme=transparent&custom_title=Tecnologias&langs_count=9)
+![developer](https://github.com/user-attachments/assets/72271c6a-0cf6-400b-b480-f8659672433f)
