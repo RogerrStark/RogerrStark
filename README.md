@@ -1,8 +1,8 @@
 # 🤖 Rogério Ferreira
 
-**`Desenvolvedor FullStack`**
+**`DevOps`**
 
-Me chamo Rogério, e trabalho na área de suporte a mais de 10 anos. Sempre tive vontade e interesse em migrar para a área de desenvolvimento. Me formei no curso de Análise e Desenvolvimento de Sistemas pela UNIFACS. E aqui estou, aos 42 anos buscando minha primeira vaga como programador.
+Me chamo Rogério, e trabalho na área de suporte a mais de 10 anos. Sempre tive vontade e interesse em migrar para a área de desenvolvimento. Me formei no curso de Análise e Desenvolvimento de Sistemas pela UNIFACS. Atualmente estou cursando Pós Graduação em DevOps pela FIAP.
 
 ---
 
